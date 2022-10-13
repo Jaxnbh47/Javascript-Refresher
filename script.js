@@ -4,7 +4,9 @@ let fullName = firstName.concat(lastName);
 
 console.log(fullName);
 
-let population = "672,351";
+let population = 672351;
+
+console.log= (population);
 
 console.log(3 * population);
 
